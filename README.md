@@ -56,8 +56,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<!-- ![Engima machine simulator demo gif][demo-gif] -->
+<div align="center">
+  <img style="border-radius: 20px" src=./demo.gif width=95% height=95% />
+</div>
+<br />
 The enigma machine is a cipher machine that was used by Germany during the Second World War. It was used extensively throughout the entirety of the conflict, and the Allies devoted considerable resources into cracking the machine, while the Germans worked to ensure it stayed out of enemy hands and updated the security of the system. The Enigma machine is well known for the large number of settings that can be used with the Machine, making decryption difficult. At the same time, flaws in its design and operational use allowed the Allies to eventually crack the enigma machine.  
 
 This program seeks to simulate the Enigma 1 machine in Python. The Enigma 1 had five rotors and room for three, with the operator swapping the rotors, location, and
@@ -86,7 +89,7 @@ To run this program, you need Python 3 installed on your system.
   sudo apt-get update
   sudo apt-get install python3.6
   ```
-* To install python3 on another system, follow instructions on [the official Python website](https://www.python.org/downloads/)
+* To install python3 on another system, follow the instructions on [the official Python website](https://www.python.org/downloads/)
 
 ### Installation
 
@@ -176,6 +179,6 @@ Project Link: [https://github.com/shioncm/enigma-machine-simulator](https://gith
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shioncm/
-[product-screenshot]: images/screenshot.png
+[demo-gif]: /demo.gif
 [Python.com]: https://img.shields.io/badge/-Python-05122A?style=flat&logo=python
 [Python-url]: https://www.python.org
