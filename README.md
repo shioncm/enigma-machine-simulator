@@ -56,7 +56,7 @@
 
 <!-- ![Engima machine simulator demo gif][demo-gif] -->
 <div align="center">
-  <img style="border-radius: 20px" src=./demo.gif width=95% height=95% />
+  <img style="border-radius: 20px" src=./demo.gif width=80% height=80% />
 </div>
 <br />
 The enigma machine is a cipher machine that was used by Germany during the Second World War. It was used extensively throughout the entirety of the conflict, and the Allies devoted considerable resources into cracking the machine, while the Germans worked to ensure it stayed out of enemy hands and updated the security of the system. The Enigma machine is well known for the large number of settings that can be used with the Machine, making decryption difficult. At the same time, flaws in its design and operational use allowed the Allies to eventually crack the enigma machine.  
